@@ -1,0 +1,707 @@
+
+
+********** runner_test-0717-1826 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1834 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1835 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1836 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1839 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** demo-0717-1840 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-1841 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-1844 **********
+    
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1849 **********
+    
+/home/master/CodeDevelopment/systemApps/runner.sh: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1851 **********
+    
+
+
+********** demo-0717-1852 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-1853 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-1854 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-2028 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-2031 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2032 **********
+    
+  -------- Failed run. --------
+
+
+********** runner_test-0717-2039 **********
+    
+
+
+********** demo-0717-2045 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2047 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2050 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2050 **********
+    
+  -------- Failed run. --------
+mkdir: cannot create directory ‘/tmp/demo-0717-2050’: File exists
+
+Could not make the directory /tmp/demo-0717-2050.
+
+
+********** demo-0717-2051 **********
+    
+  -------- Failed run. --------
+
+
+********** runner_test-0717-2051 **********
+    
+
+
+********** runner_test-0717-2228 **********
+    
+
+
+********** runner_test-0717-2237 **********
+    
+
+
+********** demo_with_test-0717-2238 **********
+    
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-2239 **********
+    
+  ---- Performing Test ----
+
+
+********** monitor-0717-2309 **********
+    
+
+
+********** monitor-0717-2310 **********
+    
+
+
+********** with_test-0717-2315 **********
+    
+  ---- Performing Test ----
+/bin/bash: /tmp/with_test-0717-2315test.sh: No such file or directory
+  -------- Failed run. --------
+
+
+********** with_test-0717-2316 **********
+    
+  ---- Performing Test ----
+/bin/bash: /tmp/with_test-0717-2316test.sh: No such file or directory
+  -------- Failed run. --------
+
+
+********** with_test-0717-2317 **********
+    
+  ---- Performing Test ----
+
+
+********** monitor-0717-2336 **********
+    
+
+
+********** CiscoInstall-0717-2337 **********
+    
+Cisco Network Simulator has not yet been installed and tested on the OS Copy partition. Please reboot and select MainServer Copy Disk 1 (the third menu choice) on the boot screen menu and install on that copy of the OS. Then boot from that partition for thorough testing before installing on this primary OS partition. You cannot install on this partition at this time.
+  -------- Failed run. --------
+
+
+********** CiscoInstall-0718-0849 **********
+    
+/tmp/CiscoInstall-0718-0849/run.sh: line 33:  5814 Terminated              zenity --info --text="Performing uncompression and file extraction." &> /dev/null
+
+
+********** Feb2020LtspUpdate-0316-0932 **********
+    
+rm: cannot remove 'student_image': No such file or directory
+
+
+********** July2020RunnerUpdate-0715-0945 **********
+    
+dpkg: error: requested operation requires superuser privilege
+dpkg: error: requested operation requires superuser privilege
+
+
+********** July2020LtspUpdate-0715-0946 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** July2020LtspUpdate-0715-0946 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+mkdir: cannot create directory ‘/tmp/July2020LtspUpdate-0715-0946’: File exists
+
+Could not make the directory /tmp/July2020LtspUpdate-0715-0946.
+
+
+********** July2020LtspUpdate-0715-0948 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** July2020RunnerUpdate-0715-0949 **********
+    
+dpkg: error: requested operation requires superuser privilege
+dpkg: error: requested operation requires superuser privilege
+
+
+********** July2020LtspUpdate-0715-0949 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** July2020LtspUpdate-0715-0952 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** July2020LtspUpdate-0715-0956 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** July2020RunnerUpdate-0715-0957 **********
+    
+dpkg: error: requested operation requires superuser privilege
+dpkg: error: requested operation requires superuser privilege
+
+
+********** July2020LtspUpdate-0715-0958 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** NewJuly2020RunnerUpdate-0720-0759 **********
+    
+rsync: chgrp "/." failed: Operation not permitted (1)
+rsync: chgrp "/usr" failed: Operation not permitted (1)
+rsync: chgrp "/usr/bin" failed: Operation not permitted (1)
+rsync: symlink "/usr/bin/unzstd" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdcat" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdmt" -> "zstd" failed: Permission denied (13)
+rsync: chgrp "/usr/lib" failed: Operation not permitted (1)
+rsync: chgrp "/usr/lib/x86_64-linux-gnu" failed: Operation not permitted (1)
+rsync: symlink "/usr/lib/x86_64-linux-gnu/libzstd.so.1" -> "libzstd.so.1.3.1" failed: Permission denied (13)
+rsync: chgrp "/usr/share" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/doc" failed: Operation not permitted (1)
+rsync: recv_generator: mkdir "/usr/share/doc/libzstd1" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: recv_generator: mkdir "/usr/share/doc/zstd" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: chgrp "/usr/share/man" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/man/man1" failed: Operation not permitted (1)
+rsync: chgrp "/var" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg/info" failed: Operation not permitted (1)
+rsync: mkstemp "/usr/bin/.pzstd.70pAqV" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstd.GhxkEG" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdgrep.lBDjSr" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdless.CcWi6c" failed: Permission denied (13)
+rsync: mkstemp "/usr/lib/x86_64-linux-gnu/.libzstd.so.1.3.1.bWhikY" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.pzstd.1.gz.hU4zRu" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.unzstd.1.gz.wVNYcg" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstd.1.gz.lSOny1" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstdcat.1.gz.UQ3MTM" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.list.X04dfy" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.md5sums.gRy5Bj" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.shlibs.h86xZ4" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.triggers.MOL1mQ" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.list.1yvwKB" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.md5sums.8hh17m" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** July2020RunnerUpdate-0720-0801 **********
+    
+dpkg: error: requested operation requires superuser privilege
+dpkg: error: requested operation requires superuser privilege
+
+
+********** July2020LtspUpdate-0720-0801 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** NewJuly2020RunnerUpdate-0720-0802 **********
+    
+rsync: chgrp "/." failed: Operation not permitted (1)
+rsync: chgrp "/usr" failed: Operation not permitted (1)
+rsync: chgrp "/usr/bin" failed: Operation not permitted (1)
+rsync: symlink "/usr/bin/unzstd" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdcat" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdmt" -> "zstd" failed: Permission denied (13)
+rsync: chgrp "/usr/lib" failed: Operation not permitted (1)
+rsync: chgrp "/usr/lib/x86_64-linux-gnu" failed: Operation not permitted (1)
+rsync: symlink "/usr/lib/x86_64-linux-gnu/libzstd.so.1" -> "libzstd.so.1.3.1" failed: Permission denied (13)
+rsync: chgrp "/usr/share" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/doc" failed: Operation not permitted (1)
+rsync: recv_generator: mkdir "/usr/share/doc/libzstd1" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: recv_generator: mkdir "/usr/share/doc/zstd" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: chgrp "/usr/share/man" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/man/man1" failed: Operation not permitted (1)
+rsync: chgrp "/var" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg/info" failed: Operation not permitted (1)
+rsync: mkstemp "/usr/bin/.pzstd.5izHB0" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstd.yf9U3w" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdgrep.xWdlw3" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdless.ATvLYz" failed: Permission denied (13)
+rsync: mkstemp "/usr/lib/x86_64-linux-gnu/.libzstd.so.1.3.1.9zPbr6" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.pzstd.1.gz.xXgrm9" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.unzstd.1.gz.SGP4OF" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstd.1.gz.7XAIhc" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstdcat.1.gz.cyvmKI" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.list.RjB0cf" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.md5sums.KjJEFL" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.shlibs.n90i8h" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.triggers.iMoXAO" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.list.bZPB3k" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.md5sums.ucigwR" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** NewJuly2020RunnerUpdate-0720-0803 **********
+    
+rsync: chgrp "/." failed: Operation not permitted (1)
+rsync: chgrp "/usr" failed: Operation not permitted (1)
+rsync: chgrp "/usr/bin" failed: Operation not permitted (1)
+rsync: symlink "/usr/bin/unzstd" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdcat" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdmt" -> "zstd" failed: Permission denied (13)
+rsync: chgrp "/usr/lib" failed: Operation not permitted (1)
+rsync: chgrp "/usr/lib/x86_64-linux-gnu" failed: Operation not permitted (1)
+rsync: symlink "/usr/lib/x86_64-linux-gnu/libzstd.so.1" -> "libzstd.so.1.3.1" failed: Permission denied (13)
+rsync: chgrp "/usr/share" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/doc" failed: Operation not permitted (1)
+rsync: recv_generator: mkdir "/usr/share/doc/libzstd1" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: recv_generator: mkdir "/usr/share/doc/zstd" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: chgrp "/usr/share/man" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/man/man1" failed: Operation not permitted (1)
+rsync: chgrp "/var" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg/info" failed: Operation not permitted (1)
+rsync: mkstemp "/usr/bin/.pzstd.hwDg9I" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstd.jUq6Rp" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdgrep.nwG8A6" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdless.p76akN" failed: Permission denied (13)
+rsync: mkstemp "/usr/lib/x86_64-linux-gnu/.libzstd.so.1.3.1.jYCd3t" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.pzstd.1.gz.tZurMa" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.unzstd.1.gz.R3uFvR" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstd.1.gz.peyTey" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstdcat.1.gz.jRN7Xe" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.list.BhimHV" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.md5sums.52OAqC" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.shlibs.XcrP9i" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.triggers.vOc4SZ" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.list.jp2iCG" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.md5sums.ZmXxln" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** NewJuly2020RunnerUpdate-0720-0804 **********
+    
+rsync: chgrp "/." failed: Operation not permitted (1)
+rsync: chgrp "/usr" failed: Operation not permitted (1)
+rsync: chgrp "/usr/bin" failed: Operation not permitted (1)
+rsync: symlink "/usr/bin/unzstd" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdcat" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdmt" -> "zstd" failed: Permission denied (13)
+rsync: chgrp "/usr/lib" failed: Operation not permitted (1)
+rsync: chgrp "/usr/lib/x86_64-linux-gnu" failed: Operation not permitted (1)
+rsync: symlink "/usr/lib/x86_64-linux-gnu/libzstd.so.1" -> "libzstd.so.1.3.1" failed: Permission denied (13)
+rsync: chgrp "/usr/share" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/doc" failed: Operation not permitted (1)
+rsync: recv_generator: mkdir "/usr/share/doc/libzstd1" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: recv_generator: mkdir "/usr/share/doc/zstd" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: chgrp "/usr/share/man" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/man/man1" failed: Operation not permitted (1)
+rsync: chgrp "/var" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg/info" failed: Operation not permitted (1)
+rsync: mkstemp "/usr/bin/.pzstd.CP0hFc" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstd.l9LknO" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdgrep.s5LC5p" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdless.9Y3UN1" failed: Permission denied (13)
+rsync: mkstemp "/usr/lib/x86_64-linux-gnu/.libzstd.so.1.3.1.0NodwD" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.pzstd.1.gz.VUjIef" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.unzstd.1.gz.aNtdXQ" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstd.1.gz.j2FIFs" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstdcat.1.gz.CN4do4" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.list.xjAJ6F" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.md5sums.cdifPh" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.shlibs.Ro1KxT" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.triggers.0cOggv" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.list.FzGMY6" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.md5sums.MWGiHI" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** NewJuly2020RunnerUpdate-0720-0806 **********
+    
+rsync: chgrp "/." failed: Operation not permitted (1)
+rsync: chgrp "/usr" failed: Operation not permitted (1)
+rsync: chgrp "/usr/bin" failed: Operation not permitted (1)
+rsync: symlink "/usr/bin/unzstd" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdcat" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdmt" -> "zstd" failed: Permission denied (13)
+rsync: chgrp "/usr/lib" failed: Operation not permitted (1)
+rsync: chgrp "/usr/lib/x86_64-linux-gnu" failed: Operation not permitted (1)
+rsync: symlink "/usr/lib/x86_64-linux-gnu/libzstd.so.1" -> "libzstd.so.1.3.1" failed: Permission denied (13)
+rsync: chgrp "/usr/share" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/doc" failed: Operation not permitted (1)
+rsync: recv_generator: mkdir "/usr/share/doc/libzstd1" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: recv_generator: mkdir "/usr/share/doc/zstd" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: chgrp "/usr/share/man" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/man/man1" failed: Operation not permitted (1)
+rsync: chgrp "/var" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg/info" failed: Operation not permitted (1)
+rsync: mkstemp "/usr/bin/.pzstd.1quMQX" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstd.Q0MAFY" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdgrep.FL1AuZ" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdless.APyBj0" failed: Permission denied (13)
+rsync: mkstemp "/usr/lib/x86_64-linux-gnu/.libzstd.so.1.3.1.rA8B80" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.pzstd.1.gz.kvaOX1" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.unzstd.1.gz.3Ip0M2" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstd.1.gz.ybGcC3" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstdcat.1.gz.ZX9or4" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.list.0DLBg5" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.md5sums.zxxO55" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.shlibs.Icp1U6" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.triggers.7lkeK7" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.list.SAgrz8" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.md5sums.7EiEo9" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** July2020RunnerUpdate-0720-0809 **********
+    
+dpkg: error: requested operation requires superuser privilege
+dpkg: error: requested operation requires superuser privilege
+
+
+********** NewJuly2020RunnerUpdate-0720-0809 **********
+    
+rsync: chgrp "/." failed: Operation not permitted (1)
+rsync: chgrp "/usr" failed: Operation not permitted (1)
+rsync: chgrp "/usr/bin" failed: Operation not permitted (1)
+rsync: symlink "/usr/bin/unzstd" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdcat" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdmt" -> "zstd" failed: Permission denied (13)
+rsync: chgrp "/usr/lib" failed: Operation not permitted (1)
+rsync: chgrp "/usr/lib/x86_64-linux-gnu" failed: Operation not permitted (1)
+rsync: symlink "/usr/lib/x86_64-linux-gnu/libzstd.so.1" -> "libzstd.so.1.3.1" failed: Permission denied (13)
+rsync: chgrp "/usr/share" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/doc" failed: Operation not permitted (1)
+rsync: recv_generator: mkdir "/usr/share/doc/libzstd1" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: recv_generator: mkdir "/usr/share/doc/zstd" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: chgrp "/usr/share/man" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/man/man1" failed: Operation not permitted (1)
+rsync: chgrp "/var" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg/info" failed: Operation not permitted (1)
+rsync: mkstemp "/usr/bin/.pzstd.DcHQoi" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstd.tUcGdo" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdgrep.9npK2t" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdless.N5MORz" failed: Permission denied (13)
+rsync: mkstemp "/usr/lib/x86_64-linux-gnu/.libzstd.so.1.3.1.JAlTGF" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.pzstd.1.gz.1yAtlR" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.unzstd.1.gz.BaLMaX" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstd.1.gz.h4Y5Z2" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstdcat.1.gz.noppP8" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.list.nZ4IEe" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.md5sums.JsM2tk" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.shlibs.PiFmjq" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.triggers.XRBG8v" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.list.72z0XB" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.md5sums.TJCkNH" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** July2020RunnerUpdate-0720-0816 **********
+    
+dpkg: error: requested operation requires superuser privilege
+dpkg: error: requested operation requires superuser privilege
+
+
+********** July2020LtspUpdate-0720-0817 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** NewJuly2020RunnerUpdate-0720-0828 **********
+    
+rsync: chgrp "/." failed: Operation not permitted (1)
+rsync: chgrp "/usr" failed: Operation not permitted (1)
+rsync: chgrp "/usr/bin" failed: Operation not permitted (1)
+rsync: symlink "/usr/bin/unzstd" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdcat" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdmt" -> "zstd" failed: Permission denied (13)
+rsync: chgrp "/usr/lib" failed: Operation not permitted (1)
+rsync: chgrp "/usr/lib/x86_64-linux-gnu" failed: Operation not permitted (1)
+rsync: symlink "/usr/lib/x86_64-linux-gnu/libzstd.so.1" -> "libzstd.so.1.3.1" failed: Permission denied (13)
+rsync: chgrp "/usr/share" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/doc" failed: Operation not permitted (1)
+rsync: recv_generator: mkdir "/usr/share/doc/libzstd1" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: recv_generator: mkdir "/usr/share/doc/zstd" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: chgrp "/usr/share/man" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/man/man1" failed: Operation not permitted (1)
+rsync: chgrp "/var" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg/info" failed: Operation not permitted (1)
+rsync: mkstemp "/usr/bin/.pzstd.6DQTm4" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstd.DWmPxh" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdgrep.IqoXIu" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdless.rfB5TH" failed: Permission denied (13)
+rsync: mkstemp "/usr/lib/x86_64-linux-gnu/.libzstd.so.1.3.1.waZd5U" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.pzstd.1.gz.4QnTrl" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.unzstd.1.gz.dRZeDy" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstd.1.gz.EoMAOL" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstdcat.1.gz.j20WZY" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.list.URnjbc" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.md5sums.vuVFmp" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.shlibs.Whw2xC" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.triggers.DzhpJP" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.list.ym7LU2" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.md5sums.Fq085f" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** NewJuly2020RunnerUpdate-0720-0833 **********
+    
+rsync: chgrp "/." failed: Operation not permitted (1)
+rsync: chgrp "/usr" failed: Operation not permitted (1)
+rsync: chgrp "/usr/bin" failed: Operation not permitted (1)
+rsync: symlink "/usr/bin/unzstd" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdcat" -> "zstd" failed: Permission denied (13)
+rsync: symlink "/usr/bin/zstdmt" -> "zstd" failed: Permission denied (13)
+rsync: chgrp "/usr/lib" failed: Operation not permitted (1)
+rsync: chgrp "/usr/lib/x86_64-linux-gnu" failed: Operation not permitted (1)
+rsync: symlink "/usr/lib/x86_64-linux-gnu/libzstd.so.1" -> "libzstd.so.1.3.1" failed: Permission denied (13)
+rsync: chgrp "/usr/share" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/doc" failed: Operation not permitted (1)
+rsync: recv_generator: mkdir "/usr/share/doc/libzstd1" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: recv_generator: mkdir "/usr/share/doc/zstd" failed: Permission denied (13)
+*** Skipping any contents from this failed directory ***
+rsync: chgrp "/usr/share/man" failed: Operation not permitted (1)
+rsync: chgrp "/usr/share/man/man1" failed: Operation not permitted (1)
+rsync: chgrp "/var" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg" failed: Operation not permitted (1)
+rsync: chgrp "/var/lib/dpkg/info" failed: Operation not permitted (1)
+rsync: mkstemp "/usr/bin/.pzstd.WVs6XN" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstd.bGXMRN" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdgrep.UErNLN" failed: Permission denied (13)
+rsync: mkstemp "/usr/bin/.zstdless.ldkOFN" failed: Permission denied (13)
+rsync: mkstemp "/usr/lib/x86_64-linux-gnu/.libzstd.so.1.3.1.SLdPzN" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.pzstd.1.gz.dXt3tN" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.unzstd.1.gz.6AWhoN" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstd.1.gz.DErwiN" failed: Permission denied (13)
+rsync: mkstemp "/usr/share/man/man1/.zstdcat.1.gz.MO9KcN" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.list.vW0Z6M" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.md5sums.oM1e1M" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.shlibs.D05tVM" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.libzstd1.triggers.wheJPM" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.list.bGqYJM" failed: Permission denied (13)
+rsync: mkstemp "/var/lib/dpkg/info/.zstd.md5sums.4NOdEM" failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** July2020RunnerUpdatev3-0724-0908 **********
+    
+  ---- Performing Test ----
+
+
+********** July2020LtspUpdatev1-0724-0909 **********
+    
+
+
+********** Aug2020RunnerUpdatev1-0803-1302 **********
+    
+  ---- Performing Test ----
+
+
+********** Aug2020RunnerUpdatev3-0807-0748 **********
+    
+  ---- Performing Test ----
+
+
+********** Aug2020RunnerUpdateV4-0810-1214 **********
+    
+  ---- Performing Test ----
+
+
+********** Aug2020LtspImageUpdateV1-0810-1216 **********
+    
+  ---- Performing Test ----
