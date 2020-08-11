@@ -1,0 +1,62 @@
+
+
+********** July2020RunnerUpdatev3-0724-0951 **********
+    
+  ---- Performing Test ----
+
+
+********** Feb2020LtspUpdate-0724-0952 **********
+    
+zstd: /media/sysadmin/30C88325C882E884/Recovery/RENEALUPDT/Feb2020LtspUpdate.run: xz/lzma file cannot be uncompressed (zstd compiled without HAVE_LZMA) -- ignored 
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/LibreOffice Base Tutorial for Beginners.mp4: Wrote only 5632 of 10240 bytes
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Thumbs.db: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Getting Started with LibreOffice Base.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (10) Filter and Background.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (14) Form Properties.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (07) Design Mode Basics.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (17) Intro to Queries.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (08) Add Delete Fields and Tab Order.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (06) Creating a form.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (04) Create a Table Using a Calc File.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (13) Pattern Field.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (09) Protect a Field, Sort, Add Buttons.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (01) Create a Database, Create a Table.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/Thumbs.db: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (02) Create a Table with the Table Wizard.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (15) Embedding a Picture.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (05) Registry and Export Data to a Calc File.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (12) Dates and Dollar Signs.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (03) Import Data from a Calc File.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (11) Radio Buttons.mp4: Cannot write: No space left on device
+tar: ./client_home/AllUsersShared/Shared/Tutorials/LibreOffice Base Videos/Base Video Series/LibreOffice Base (16) Linking a Picture.mp4: Cannot write: No space left on device
+tar: ./c
+
+********** Feb2020LtspUpdate-0724-1154 **********
+    
+rm: cannot remove 'student_image': No such file or directory
+
+
+********** July2020RunnerUpdatev3-0724-1202 **********
+    
+  ---- Performing Test ----
+
+
+********** July2020LtspUpdatev1-0724-1203 **********
+    
+
+
+********** Aug2020RunnerUpdatev1-0803-1125 **********
+    
+  ---- Performing Test ----
+
+
+********** Aug2020RunnerUpdateV4-0810-1456 **********
+    
+  ---- Performing Test ----
+
+
+********** Aug2020LtspImageUpdateV1-0810-1459 **********
+    
+  ---- Performing Test ----

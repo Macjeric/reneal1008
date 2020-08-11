@@ -1,0 +1,276 @@
+
+
+********** runner_test-0717-1826 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1834 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1835 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1836 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1839 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** demo-0717-1840 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-1841 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-1844 **********
+    
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1849 **********
+    
+/home/master/CodeDevelopment/systemApps/runner.sh: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1851 **********
+    
+
+
+********** demo-0717-1852 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-1853 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-1854 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-2028 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-2031 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2032 **********
+    
+  -------- Failed run. --------
+
+
+********** runner_test-0717-2039 **********
+    
+
+
+********** demo-0717-2045 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2047 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2050 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2050 **********
+    
+  -------- Failed run. --------
+mkdir: cannot create directory ‘/tmp/demo-0717-2050’: File exists
+
+Could not make the directory /tmp/demo-0717-2050.
+
+
+********** demo-0717-2051 **********
+    
+  -------- Failed run. --------
+
+
+********** runner_test-0717-2051 **********
+    
+
+
+********** runner_test-0717-2228 **********
+    
+
+
+********** runner_test-0717-2237 **********
+    
+
+
+********** demo_with_test-0717-2238 **********
+    
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-2239 **********
+    
+  ---- Performing Test ----
+
+
+********** monitor-0717-2309 **********
+    
+
+
+********** monitor-0717-2310 **********
+    
+
+
+********** with_test-0717-2315 **********
+    
+  ---- Performing Test ----
+/bin/bash: /tmp/with_test-0717-2315test.sh: No such file or directory
+  -------- Failed run. --------
+
+
+********** with_test-0717-2316 **********
+    
+  ---- Performing Test ----
+/bin/bash: /tmp/with_test-0717-2316test.sh: No such file or directory
+  -------- Failed run. --------
+
+
+********** with_test-0717-2317 **********
+    
+  ---- Performing Test ----
+
+
+********** monitor-0717-2336 **********
+    
+
+
+********** CiscoInstall-0717-2337 **********
+    
+Cisco Network Simulator has not yet been installed and tested on the OS Copy partition. Please reboot and select MainServer Copy Disk 1 (the third menu choice) on the boot screen menu and install on that copy of the OS. Then boot from that partition for thorough testing before installing on this primary OS partition. You cannot install on this partition at this time.
+  -------- Failed run. --------
+
+
+********** CiscoInstall-0718-0849 **********
+    
+/tmp/CiscoInstall-0718-0849/run.sh: line 33:  5814 Terminated              zenity --info --text="Performing uncompression and file extraction." &> /dev/null
+
+
+********** unicode-1121-0816 **********
+    
+lzcat: /boot/grub/fonts/unicode.pf2: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /boot/grub/fonts/unicode.pf2
+
+
+**
+
+********** reneal-0317-1152 **********
+    
+rm: cannot remove 'student_image': No such file or directory
+
+
+********** July2020RunnerUpdate-0715-1142 **********
+    
+dpkg: error: requested operation requires superuser privilege
+dpkg: error: requested operation requires superuser privilege
+
+
+********** July2020RunnerUpdate-0715-1143 **********
+    
+dpkg: error: requested operation requires superuser privilege
+dpkg: error: requested operation requires superuser privilege
+
+
+********** July2020LtspUpdate-0715-1143 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** July2020LtspUpdate-0715-1149 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** July2020LtspUpdate-0715-1158 **********
+    
+/usr/local/bin/runner: line 228: /usr/bin/zstdcat: No such file or directory
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+/usr/bin/lzcat: /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run: File format not recognized
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+
+Could not unpack /media/sysadmin/B363-29E6/LtspJuly2020Update/July2020LtspUpdate.run
+
+
+********** July2020RunnerUpdate-0715-1159 **********
+    
+dpkg: error: requested operation requires superuser privilege
+dpkg: error: requested operation requires superuser privilege
+
+
+********** July2020RunnerUpdatev3-0724-0745 **********
+    
+  ---- Performing Test ----
+
+
+********** July2020LtspUpdatev1-0724-0747 **********
+    
+
+
+********** Aug2020RunnerUpdatev2-0805-0801 **********
+    
+  ---- Performing Test ----
+
+
+********** Aug2020RunnerUpdateV4-0810-1410 **********
+    
+  ---- Performing Test ----
+
+
+********** Aug2020LtspImageUpdateV1-0810-1412 **********
+    
+  ---- Performing Test ----
